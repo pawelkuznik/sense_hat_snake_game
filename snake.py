@@ -1,5 +1,5 @@
 # ################# SNAKE GAME ##########################
-Url: https://github.com/pawelkuznik/sense_hat_snake_game
+# Url: https://github.com/pawelkuznik/sense_hat_snake_game
 
 import time, random
 from sense_emu import SenseHat
